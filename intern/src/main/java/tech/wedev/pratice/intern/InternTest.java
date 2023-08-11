@@ -1,6 +1,6 @@
 package tech.wedev.pratice.intern;
 
-public class Test {
+public class InternTest {
 
     /**
      * https://blog.csdn.net/superlover_/article/details/93719290

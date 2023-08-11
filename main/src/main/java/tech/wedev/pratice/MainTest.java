@@ -4,7 +4,7 @@ import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.util.Calendar;
 
-public class Main {
+public class MainTest {
     public static void main(String[] args) {
         // 获取当前日期
         LocalDate date = LocalDate.now();
