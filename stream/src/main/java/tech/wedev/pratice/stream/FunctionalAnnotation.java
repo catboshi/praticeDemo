@@ -1,4 +1,4 @@
-package tech.wedev.wecom.monad;
+package tech.wedev.pratice.stream;
 
 import lombok.var;
 

@@ -1,8 +1,7 @@
 package tech.wedev.pratice.stream;
 
 import lombok.SneakyThrows;
-
-import static tech.wedev.pratice.stream.enums.StreamOperation.*;
+import tech.wedev.pratice.stream.enums.StreamOperation;
 
 public class StreamUsageScenario {
 
@@ -13,7 +12,7 @@ public class StreamUsageScenario {
 //        NATURAL_ORDER.operate();
 //        MAX.operate();
 //        MAX2.operate();
-        MAX3.operate();
+        StreamOperation.MAX3.operate();
 //        NEWEST.operate();
     }
 }
